@@ -32,14 +32,3 @@ body{
     display: flex;
     justify-content:flex-end;
 }
-
-.cont{
-        display: flex;
-        align-items: center;
-        justify-content: center;  
-        height: 100vh;
-}
-.cont .card{
-    width: 500px;
-    height: 400px;
-}
